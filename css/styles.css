@@ -1255,7 +1255,4 @@ img {
   .footer-input {
     opacity: 1;
   }
-
-  .footer-input::placeholder {
-  }
 }
