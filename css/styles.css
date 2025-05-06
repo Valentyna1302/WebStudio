@@ -161,6 +161,10 @@ img {
     gap: 40px;
   }
 
+  .mobile-menu-navigation {
+    margin-bottom: 168px;
+  }
+
   .mobile-menu-link {
     font-size: 36px;
     font-weight: 700;
